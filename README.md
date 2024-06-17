@@ -23,4 +23,3 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to start the cloning process
-
